@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Pila\Pila\obj\Debug\netcoreapp3.0\Pila.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Pila\Pila\obj\Debug\netcoreapp3.0\Pila.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Pila\Pila\bin\Debug\netcoreapp3.0\Pila.exe
+C:\Users\Usuario\source\repos\Pila\Pila\bin\Debug\netcoreapp3.0\Pila.deps.json
+C:\Users\Usuario\source\repos\Pila\Pila\bin\Debug\netcoreapp3.0\Pila.runtimeconfig.json
+C:\Users\Usuario\source\repos\Pila\Pila\bin\Debug\netcoreapp3.0\Pila.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\Pila\Pila\bin\Debug\netcoreapp3.0\Pila.dll
+C:\Users\Usuario\source\repos\Pila\Pila\bin\Debug\netcoreapp3.0\Pila.pdb
+C:\Users\Usuario\source\repos\Pila\Pila\obj\Debug\netcoreapp3.0\Pila.dll
+C:\Users\Usuario\source\repos\Pila\Pila\obj\Debug\netcoreapp3.0\Pila.pdb
